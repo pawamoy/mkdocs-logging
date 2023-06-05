@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: 0.15.10
+_src_path: gh:pawamoy/copier-pdm
+author_email: pawamoy@pm.me
+author_fullname: Timothée Mazzucotelli
+author_username: pawamoy
+copyright_date: '2023'
+copyright_holder: Timothée Mazzucotelli
+copyright_holder_email: pawamoy@pm.me
+copyright_license: ISC License
+insiders: false
+project_description: Logging utilities for MkDocs plugins.
+project_name: MkDocs Logging
+python_package_command_line_name: ''
+python_package_distribution_name: mkdocs-logging
+python_package_import_name: mkdocs_logging
+repository_name: mkdocs-logging
+repository_namespace: pawamoy
+repository_provider: github.com
+
